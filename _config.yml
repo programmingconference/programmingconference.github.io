@@ -1,0 +1,16 @@
+title: ‹Programming›
+
+host: http://programmingconference.org
+baseurl: /
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+
+host: 0.0.0.0
+# EOF
