@@ -1,7 +1,6 @@
 title: ‹Programming›
 
 host: https://programmingconference.org
-baseurl: /
 
 # Build settings
 highlighter: rouge
